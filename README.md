@@ -5,15 +5,15 @@
 
 
 OVERALL TECHNICAL CAPABILITIES
--	Tableau: Worked on 5 Projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
-- Spotfire: Worked on 2 Projects and build 6+ data lake dashboards (Product Management and Installed Base)
-•	Python: 6 Projects, 2000+ lines of codes (Machine Learning Models and Standalone applications)
-•	VBA Automation: 4 Projects, 800+ lines of codes (Excel Simplification)
-•	SQL: 4 Projects (Custom SQL, Integrator and basic ETL, Spotfire Data Lake Redshift Information Links) 
-•	Wave analytics & D3 Visualization: 1 Project, 4 dashboards
-•	Quantum Computing: 1 Learning Project (CIRQ and Qiskit)
-•	AWS Sage maker: 2 Projects (Time Series Regression & Random Forest Models)
-•	Unity, Blender & AWS Sage maker: Basic Virtual Reality Application 
+-	👋 Tableau: Worked on 5 Projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
+- 👀 Spotfire: Worked on 2 Projects and build 6+ data lake dashboards (Product Management and Installed Base)
+-	🌱 Python: 6 Projects, 2000+ lines of codes (Machine Learning Models and Standalone applications)
+-	💞️ VBA Automation: 4 Projects, 800+ lines of codes (Excel Simplification)
+-	👋 SQL: 4 Projects (Custom SQL, Integrator and basic ETL, Spotfire Data Lake Redshift Information Links) 
+-	👀 Wave analytics & D3 Visualization: 1 Project, 4 dashboards
+-	🌱 Quantum Computing: 1 Learning Project (CIRQ and Qiskit)
+-	💞️ AWS Sage maker: 2 Projects (Time Series Regression & Random Forest Models)
+-	✨ Unity, Blender & AWS Sage maker: Basic Virtual Reality Application 
 
 
 <!---
