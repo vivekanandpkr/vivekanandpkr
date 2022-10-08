@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek
 - 👀 I’m interested in Data Science, Machine Learning and Quantum Computing. 
-- 🌱 I’m doing my Masters in Artificial Intelligence in JKU University, Austria. 
+- 🌱 I’m doing my Masters in Artificial Intelligence in JKU University. 
 - 💞️ I’m looking to collaborate on any new disruptive technologies. 
 
 
