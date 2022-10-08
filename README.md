@@ -16,7 +16,7 @@ MY OVERALL TECHNICAL CAPABILITIES
 -	✨ Unity, Blender & AWS Sage maker: Basic Virtual Reality Application 
 
 
-- My Visualization Works: https://public.tableau.com/app/profile/vivekanand4623#!/
+My Visualization Works: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 
 <!---
