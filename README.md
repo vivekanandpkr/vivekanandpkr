@@ -5,8 +5,8 @@
 
 
 OVERALL TECHNICAL CAPABILITIES
-•	Tableau: Worked on 5 Projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
-•	Spotfire: Worked on 2 Projects and build 6+ data lake dashboards (Product Management and Installed Base)
+-	Tableau: Worked on 5 Projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
+- Spotfire: Worked on 2 Projects and build 6+ data lake dashboards (Product Management and Installed Base)
 •	Python: 6 Projects, 2000+ lines of codes (Machine Learning Models and Standalone applications)
 •	VBA Automation: 4 Projects, 800+ lines of codes (Excel Simplification)
 •	SQL: 4 Projects (Custom SQL, Integrator and basic ETL, Spotfire Data Lake Redshift Information Links) 
