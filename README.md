@@ -21,7 +21,7 @@ and HQ Finance Reporting.
 • Skilled, Creative Techno Functional profession with good BI story telling competence.
 • Technology: Tableau, Python, Spotfire, Kibana, VBA, SQL, VB, Advanced Excel, ETL and AWS Cloud Solutions.
 • Exploring Digital Product Management, Machine Learning, Deep Learning and Kibana Elastic BI solutions.
-• Strive for continuous improvement, like to take initiative, eager to pilot new ideas
+• Strive for continuous improvement, like to take initiative and eager to pilot new ideas
 
 
 My Visualization Works: https://public.tableau.com/app/profile/vivekanand4623#!/
