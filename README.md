@@ -14,6 +14,15 @@ MY OVERALL TECHNICAL CAPABILITIES
 -	💞️ AWS Sage maker: 2 Projects (Time Series Regression & Random Forest Models)
 -	✨ Unity, Blender & AWS Sage maker: Basic Virtual Reality Application 
 
+About My Competence: 
+• 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning 
+and HQ Finance Reporting. 
+• Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales.
+• Skilled, Creative Techno Functional profession with good BI story telling competence.
+• Technology: Tableau, Python, Spotfire, Kibana, VBA, SQL, VB, Advanced Excel, ETL and AWS Cloud Solutions.
+• Exploring Digital Product Management, Machine Learning, Deep Learning and Kibana Elastic BI solutions.
+• Strive for continuous improvement, like to take initiative, eager to pilot new ideas
+
 
 My Visualization Works: https://public.tableau.com/app/profile/vivekanand4623#!/
 
