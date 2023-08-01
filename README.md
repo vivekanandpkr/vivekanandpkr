@@ -19,7 +19,6 @@ About My Competence:
 and HQ Finance Reporting. 
 • Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales.
 • Skilled, Creative Techno Functional profession with good BI story telling competence.
-• Technology: Tableau, Python, Spotfire, Kibana, VBA, SQL, VB, Advanced Excel, ETL and AWS Cloud Solutions.
 • Exploring Digital Product Management, Machine Learning, Deep Learning and Kibana Elastic BI solutions.
 • Strive for continuous improvement, like to take initiative and eager to pilot new ideas
 
