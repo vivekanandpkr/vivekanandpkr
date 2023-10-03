@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vivek
-- 👀 I’m interested in Data Science, Machine Learning and Quantum Computing. 
-- 💞️ I’m looking to collaborate on any new disruptive technologies. 
+- Hi, I’m @vivek
+- I’m interested in Data Science, Machine Learning and Quantum Computing. 
+- I’m looking to collaborate on any new disruptive technologies. 
 
 
 MY OVERALL TECHNICAL CAPABILITIES
