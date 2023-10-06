@@ -1,5 +1,5 @@
 - Hi, I’m @vivek
-- I’m interested in Data Analytics, Business intelligence, Digital Solutions,  Data Science, Machine Learning and Product Management. 
+- I’m interested in Data Analytics, Business intelligence, Fintech Digital Solutions,  Data Science, AI Machine Learning and Product Management. 
 - I’m looking to collaborate on any new disruptive technologies. 
 
 
