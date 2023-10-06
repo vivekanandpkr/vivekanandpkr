@@ -1,5 +1,5 @@
 - Hi, I’m @vivek
-- I’m interested in Data Science, Machine Learning and Quantum Computing. 
+- I’m interested in Data Analytics, Business intelligence, Data Science, Machine Learning and Quantum Computing. 
 - I’m looking to collaborate on any new disruptive technologies. 
 
 
