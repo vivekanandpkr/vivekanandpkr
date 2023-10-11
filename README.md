@@ -24,7 +24,7 @@ and HQ Finance Reporting.
 • Strive for continuous improvement, like to take initiative and eager to pilot new ideas
 
 
-Have a look: https://public.tableau.com/app/profile/vivekanand4623#!/
+Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 
 <!---
