@@ -22,6 +22,11 @@ and HQ Finance Reporting.
 • Exploring Digital Product Management, Machine Learning, Deep Learning and Kibana Elastic BI solutions.
 • Strive for continuous improvement, like to take initiative and eager to pilot new ideas
 
+2023 Tech Conference Participations:
+-- AWS Cloud Day, Zurich Switzerland (Sep 2023)
+-- Elastic Conference, Frankfurt (Planned in Nov)
+-- Salesforce Conference, Zurich (Planned in Nov)
+-- Google Developer Submit, Zurich (Planned in Nov)
 
 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
