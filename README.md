@@ -6,8 +6,7 @@ MY OVERALL TECHNICAL CAPABILITIES
 - Spotfire: Worked on 2 Projects and build 6+ data lake dashboards (Product Management and Installed Base)
 - Kibana/Elastic: Worked on 1 Projects and build 3 dashboards. 
 -	Python: 6 Projects, 3000+ lines of codes (Machine Learning Models and Standalone applications)
--	VBA Automation: 4 Projects, 800+ lines of codes (Excel Simplification)
--	SQL: 4 Projects (Custom SQL, Integrator & basic ETL, Spotfire Data Lake Redshift Information Links) 
+-	VBA Automation: 4 Projects, 800+ lines of codes (Excel Simplification), SQL: 4 Projects (Custom SQL, Integrator & basic ETL, Spotfire Data Lake Redshift Information Links) 
 -	Wave analytics & D3 Visualization: 1 Project, 4 dashboards
 -	Quantum Computing: 1 Learning Project (CIRQ and Qiskit)
 -	AWS Sage maker: 2 Projects (Time Series Regression & Random Forest Models)
