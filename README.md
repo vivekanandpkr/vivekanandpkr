@@ -24,15 +24,15 @@ Overall Competence:
 • 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning 
 and HQ Finance Reporting. 
 • Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales.
-• Skilled, Creative Techno Functional profession with good BI story telling competence.
-• Digital Product Management, Machine Learning, Deep Learning and Kibana Elastic BI solutions.
+• Skilled, creative techno functional profession with good BI story telling competence.
+• Digital product management, machine learning, deep learning and kibana elastic BI solutions.
 • Strive for continuous improvement, like to take initiative and eager to pilot new ideas
 
 2023 Tech Conference Participations:
 - AWS Cloud Day, Zurich Switzerland (Sep 2023)
-- Elastic Conference, Frankfurt (Planned in Nov)
-- Salesforce Conference, Zurich (Planned in Nov)
-- Google Developer Submit, Zurich (Planned in Nov)
+- Elastic Conference, Frankfurt (Planned in Nov 2023)
+- Salesforce Conference, Zurich (Planned in Nov 2023)
+- Google Developer Submit, Zurich (Planned in Nov 2023)
 
 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
