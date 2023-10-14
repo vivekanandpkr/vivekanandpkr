@@ -1,7 +1,7 @@
 - Hi, I’m Vivek.
 - I’m interested in Data Analytics, Business intelligence, Fintech Digital Solutions, AI Machine Learning and Product Management. 
 
-MY OVERALL TECHNICAL CAPABILITIES
+Overall Technical Competence:
 -	Tableau: Worked on 5 Projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
 - Spotfire: Worked on 2 Projects and build 6+ data lake dashboards (Product Management and Installed Base)
 - Kibana/Elastic: Worked on 1 Projects and build 3 dashboards. (ML Abnormal/Outlier detection)
