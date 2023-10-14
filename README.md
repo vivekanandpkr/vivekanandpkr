@@ -5,7 +5,7 @@ Overall Technical Competencies:
 1. Business Intelligence: 
 -	Tableau & Power BI: Worked on 5 projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
 - Spotfire: Worked on 2 projects and crafted 6+ data lake dashboards (Product Management and Installed Base)
-- Kibana/Elastic: Worked on 1 projects and engineered 3 dashboards. (ML Outlier Detection)
+- Kibana/Elastic: Worked on 1 project and engineered 3 dashboards. (ML Outlier Detection)
 - Wave analytics & D3 Visualization: 1 Project, 4 dashboards
 
 2. Machine Learning, AI and Automation:
