@@ -19,6 +19,7 @@ Overall Technical Competencies:
 -	Unity, Blender & AWS Sage maker: Basic Virtual Reality Application 
 
 
+
 Overall Competence: 
 • 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning 
 and HQ Finance Reporting. 
