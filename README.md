@@ -14,10 +14,6 @@ Overall Technical Competencies:
 -	AWS Sage maker: 2 Projects (Time Series Regression, KNN & Random Forest Models)
 - R: Statistics
 
-3. Others: VR & Quantum:
--	Quantum Computing: 1 Learning Project (CIRQ and Qiskit)
--	Unity, Blender & AWS Sage maker: Basic Virtual Reality Application 
-
 
 
 Overall Competence: 
