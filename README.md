@@ -26,7 +26,7 @@ and HQ Finance Reporting.
 • Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales.
 • Skilled, creative techno functional profession with good BI story telling competence.
 • Digital product management, machine learning, deep learning and kibana elastic BI solutions.
-• Strive for continuous improvement, like to take initiative and eager to pilot new ideas
+• Like to take initiative and eager to pilot new ideas.
 
 2023 Tech Conference Participations:
 - AWS Cloud Day, Zurich Switzerland (Sep 2023)
