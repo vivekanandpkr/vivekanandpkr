@@ -24,7 +24,7 @@ and HQ Finance Reporting.
 • Digital product management, machine learning, deep learning and kibana elastic BI solutions.
 • Like to take initiative and eager to pilot new ideas.
 
-2023 Tech Conference Participations On Personnal Interest:
+2023 Tech Conference Participations On Personal Interest:
 - AWS Cloud Day, Zurich Switzerland (Sep 2023)
 - Elastic Conference, Frankfurt (Planned in Nov 2023)
 - Salesforce Conference, Zurich (Planned in Nov 2023)
