@@ -1,6 +1,5 @@
 - Hi, I’m Vivek.
-- I’m interested in Data Analytics, Business intelligence, Fintech Digital Solutions, AI Machine Learning and Product Management.
-
+- 
 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 
