@@ -1,5 +1,7 @@
 - Hi, I’m Vivek.
-- Overall Technical Competencies:
+- I'm Interested in Data Analytics, Business Intelligence, Fintech Digital Solutions,  AI Machine Learning and Product Management. 
+  
+Technical Competencies:
 1. Business Intelligence: 
 -	Tableau & Power BI: Worked on 5 projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
 - Spotfire: Worked on 2 projects and crafted 6+ data lake dashboards (Product Management and Installed Base)
