@@ -1,35 +1,6 @@
 - Hi, I’m Vivek.
 - I’m interested in Data Analytics, Business intelligence, Fintech Digital Solutions, AI Machine Learning and Product Management.
 
-Overall Technical Competencies:
-1. Business Intelligence: 
--	Tableau & Power BI: Worked on 5 projects and build 30+ dashboards (Pricing, Commercial and Sales Performance)
-- Spotfire: Worked on 2 projects and crafted 6+ data lake dashboards (Product Management and Installed Base)
-- Kibana/Elastic: Worked on 1 project and engineered 3 dashboards. (ML Outlier Detection)
-- Wave analytics & D3 Visualization: 1 Project, 4 dashboards
-
-2. Machine Learning, AI and Automation:
--	Python: 6 Projects, 3000+ lines of codes (Machine Learning Models, Standalone Applications, Pandas, Numpy, Tensorflow, Knn Model, Random Forest)
--	VBA Automation: 4 Projects, 800+ lines of codes, SQL: 4 Projects (Custom SQL, Integrator & basic ETL, Spotfire Data Lake Redshift Information Links)
--	AWS Sage maker: 2 Projects (Time Series Regression, KNN & Random Forest Models)
-- R: Statistics
-
-
-
-Overall Competence: 
-• 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning 
-and HQ Finance Reporting. 
-• Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales.
-• Skilled, creative techno functional profession with good BI story telling competence.
-• Digital product management, machine learning, deep learning and kibana elastic BI solutions.
-• Like to take initiative and eager to pilot new ideas.
-
-2023 Tech Conference Participations On Personal Interest:
-- AWS Cloud Day, Zurich Switzerland (Sep 2023)
-- Elastic Conference, Frankfurt (Planned in Nov 2023)
-- Salesforce Conference, Zurich (Planned in Nov 2023)
-- Google Developer Submit, Zurich (Planned in Nov 2023)
-
 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 
