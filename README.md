@@ -30,6 +30,7 @@ Here are some resources that have been my guiding stars on this journey:
 - Datacamp
 - OpenAI 
 - Coursera
+- Tech Conferences
 
 ## 💬 Let's Connect
 
