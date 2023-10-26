@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vivek.
 
-I'm a data scientist with a passion for turning data into actionable insights. Based in beautiful Austria, I'm on a journey to unravel the mysteries of AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales. I like to take initiative and eager to pilot new ideas.
+I'm a data scientist with a passion for turning data into actionable insights. Based in Austria currently, I'm on a journey to unravel the mysteries of AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales. I like to take initiative and eager to pilot new ideas.
 
 ## 🔬 Exploring the Data Universe
 
