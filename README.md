@@ -1,15 +1,11 @@
 - Hi, I’m Vivek.
 - I'm Interested in Data Analytics, Business Intelligence, Fintech Digital Solutions,  AI Machine Learning and Product Management.
 
-
-
 Overall Competence: 
 • 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning 
 and HQ Finance Reporting. 
 • Worked in domains like Commercial, Data & Analytics, Services, Data Migration and Pre-Sales.
-• Like to take initiative and eager to pilot new ideas.!
-
-[image](https://github.com/vivekanandpkr/vivekanandpkr/assets/21027388/4702e0ef-8930-478f-babe-1c611de22822)
+• Like to take initiative and eager to pilot new ideas.
 
 
 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
