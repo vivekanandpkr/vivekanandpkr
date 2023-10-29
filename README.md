@@ -15,11 +15,10 @@ In my data-driven adventures, I'm currently:
 ## Lifelong Learner
 
 I believe in the power of continuous learning. Beyond data science, I'm diving into:
+- 🌱 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
+- 💼 Acquiring comprehensive knowledege of product management practices and opportunities in business environment.
 - ⚛️ Quantum computing to understand its potential in solving complex problems in future.
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
-- 🌱 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
-- 🧠 Delving into neuroscience, aiming to contribute to better treatments for neurological disorders.
-- 💼 Acquiring comprehensive knowledege of product management practices and opportunities in business environment.   
 
 ## Tech Toolbox
 
@@ -35,10 +34,10 @@ I wield an array of tools and technologies, including:
 Here are some resources that have been my guiding stars on this journey:
 - Datacamp
 - OpenAI 
-- Coursera
+- Coursera & Google Scholar
 - Libraries
 - Tech Conferences
-- Lot of Mentors
+- Mentors
 
 ## Let's Connect
 
