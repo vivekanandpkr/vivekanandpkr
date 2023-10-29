@@ -9,7 +9,7 @@ Developing this space as one of my primary hobbies and contributing it like a Mi
 In my data-driven adventures, I'm currently:
 - 📊 Building predictive models for Big Data, Healthcare and Commercial Applications.
 - 🔬 Analyzing data to uncover hidden patterns in Commercial, Analytics, Product Management and Service.
-- 📈 Crafting Visualizations to analyze big data for desision support.
+- 📈 Crafting Visualizations to analyze big data for decision support.
 - 💡 Exploring innovative ways to apply AI and ML in real-world scenarios.
 
 ## Lifelong Learner
@@ -19,7 +19,7 @@ I believe in the power of continuous learning. Beyond data science, I'm diving i
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
 - 🌱 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
 - 🧠 Delving into neuroscience, aiming to contribute to better treatments for neurological disorders.
-- 💼 Acquiring comprehensive knowledege of product management practices and opportunties in business environment.   
+- 💼 Acquiring comprehensive knowledege of product management practices and opportunities in business environment.   
 
 ## Tech Toolbox
 
