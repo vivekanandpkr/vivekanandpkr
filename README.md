@@ -16,13 +16,14 @@ I believe in the power of continuous learning. Beyond data science, I'm diving i
 - ⚛️ Quantum computing to understand its potential in solving complex problems in future.
 - 🧠 Delving into neuroscience, aiming to contribute to better treatments for neurological disorders.
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
-- 📈 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture. 
+- 📈 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
+- 📂 Acquiring comprehensive knowledege of product management practices and opportunties in business environment.   
 
 ## 🛠️ Tech Toolbox
 
 I wield an array of tools and technologies, including:
-- Python
-- Tableau, Spotfire, Kibana 🌍
+- Python & R
+- Tableau, Spotfire, Power BI, Kibana 🌍
 - TensorFlow and PyTorch 🚀
 - SQL & VBA 📂
 - Excel Champion. 
@@ -33,6 +34,7 @@ Here are some resources that have been my guiding stars on this journey:
 - Datacamp
 - OpenAI 
 - Coursera
+- Libraries
 - Tech Conferences
 - Lot of Mentors
 
