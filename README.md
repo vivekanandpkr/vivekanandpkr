@@ -12,7 +12,6 @@ In my data-driven adventures, I'm currently:
 - 💡 Exploring innovative ways to apply AI and ML in real-world scenarios.
 
 **Lifelong Learner**
-
 I believe in the power of continuous learning. Beyond data science, I'm diving into:
 - 🌱 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
 - 💼 Acquiring comprehensive knowledege of product management practices and opportunities in business environment.
@@ -20,7 +19,6 @@ I believe in the power of continuous learning. Beyond data science, I'm diving i
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
 
 **Tech Toolbox**
-
 I wield an array of tools and technologies, including:
 - Python & R 🛠️
 - Tableau, Spotfire, Power BI, Kibana 🌍
@@ -29,7 +27,6 @@ I wield an array of tools and technologies, including:
 - Excel Champion 📚 
 
 **Learning Resources**
-
 Here are some resources that have been my guiding stars on this journey:
 - Datacamp
 - OpenAI 
@@ -39,7 +36,6 @@ Here are some resources that have been my guiding stars on this journey:
 - Mentors
 
 **Let's Connect**
-
 I'm all ears for engaging discussions, collaboration, or simply connecting with like-minded individuals. Reach out to me here:
 - 📧 Email: Vivekanandpkt@gmail.com
 - 🚀 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
