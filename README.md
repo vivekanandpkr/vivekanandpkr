@@ -1,6 +1,8 @@
 # Hello, I'm Vivek.
 
-I'm on a journey to unleash and extract meaningful information from big data using AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  I've diversified experience and eager to pilot new ideas. Developing this space as one of my primary hobbies and contributing it like a Minimum Viable Product (MVP). 
+I'm on a journey to unleash and extract meaningful information from big data using AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  I've diversified experience and eager to pilot new ideas. 
+
+Developing this space as one of my primary hobbies and contributing it like a Minimum Viable Product (MVP). 
 
 ## 🔬 Exploring the Data Universe
 
