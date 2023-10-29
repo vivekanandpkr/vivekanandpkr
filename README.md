@@ -16,9 +16,9 @@ In my data-driven adventures, I'm currently:
 
 I believe in the power of continuous learning. Beyond data science, I'm diving into:
 - ⚛️ Quantum computing to understand its potential in solving complex problems in future.
-- 🧠 Delving into neuroscience, aiming to contribute to better treatments for neurological disorders.
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
 - 📈 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
+- 🧠 Delving into neuroscience, aiming to contribute to better treatments for neurological disorders.
 - 💼 Acquiring comprehensive knowledege of product management practices and opportunties in business environment.   
 
 ## 🛠️ Tech Toolbox
