@@ -17,7 +17,7 @@ I believe in the power of continuous learning. Beyond data science, I'm diving i
 - 🧠 Delving into neuroscience, aiming to contribute to better treatments for neurological disorders.
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
 - 📈 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
-- 📂 Acquiring comprehensive knowledege of product management practices and opportunties in business environment.   
+- 💼 Acquiring comprehensive knowledege of product management practices and opportunties in business environment.   
 
 ## 🛠️ Tech Toolbox
 
@@ -43,7 +43,7 @@ Here are some resources that have been my guiding stars on this journey:
 I'm all ears for engaging discussions, collaboration, or simply connecting with like-minded individuals. Reach out to me here:
 - 📧 Email: Vivekanandpkt@gmail.com
 - 🚀 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
-- 💼 LinkedIn: TBD
+
 
 I'm still new here, have spend <50 hours on updating this Github space as one of my primary hobbies. More Importantly, I'm focusing mainly on the brainstorming ideas & concepts to leverage the best human centric AI, but not here to showcase my programming, machine learning models etc., which can be easily automated or taken over by AI in next few years. Join me on this data-driven journey as we navigate the ever-evolving world of technology and knowledge. Thanks for reading. 
 
