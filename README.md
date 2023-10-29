@@ -19,7 +19,7 @@ I believe in the power of continuous learning. Beyond data science, I'm diving i
 - ⚛️ Quantum computing to understand its potential in solving complex problems in future.
 - 📡 Learning about emerging technology like AR/VR and its commercial business applications.
 
-## Tech Toolbox
+**Tech Toolbox**
 
 I wield an array of tools and technologies, including:
 - Python & R 🛠️
@@ -28,7 +28,7 @@ I wield an array of tools and technologies, including:
 - SQL & VBA 📂
 - Excel Champion 📚 
 
-## Learning Resources
+**Learning Resources**
 
 Here are some resources that have been my guiding stars on this journey:
 - Datacamp
@@ -38,7 +38,7 @@ Here are some resources that have been my guiding stars on this journey:
 - Tech Conferences
 - Mentors
 
-## Let's Connect
+**Let's Connect**
 
 I'm all ears for engaging discussions, collaboration, or simply connecting with like-minded individuals. Reach out to me here:
 - 📧 Email: Vivekanandpkt@gmail.com
