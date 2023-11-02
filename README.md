@@ -1,18 +1,18 @@
 # Hello, I'm Vivek.
 
-I'm on a journey to unleash and extract meaningful information from big data using AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  I've diversified experience and eager to pilot new ideas. 
+I'm on a journey to analyse and extract meaningful information from big data using AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  I've diversified experience and eager to pilot new ideas. 
 
 Developing this space as one of my primary hobbies and contributing it like a Minimum Viable Product (MVP). 
 
 **Exploring the Data Universe**
-In my data-driven adventures, I'm currently:
+In my data-driven journey, I'm currently:
 - 📊 Building predictive models for Big Data, Healthcare and Commercial Applications.
 - 🔬 Analyzing data to uncover hidden patterns in Commercial, Analytics, Product Management and Service.
 - 📈 Crafting Visualizations to analyze big data for decision support.
 - 💡 Exploring innovative ways to apply AI and ML in real-world scenarios.
 
 **Lifelong Learner**
-I believe in the power of continuous learning. Beyond data science, I'm diving into:
+I believe in the power of continuous learning. Beyond data science, I'm spending my time on:
 - 🌱 Enhancing my abilities to thrive in a new business setting, acquiring new languages and adapting to diverse culture.
 - 💼 Acquiring comprehensive knowledege of product management practices and opportunities in business environment.
 - ⚛️ Quantum computing to understand its potential in solving complex problems in future.
