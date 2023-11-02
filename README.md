@@ -50,7 +50,5 @@ Join me on this data-driven journey as we navigate the ever-evolving world of te
 
 <!---
 vivekanandpkr/vivekanandpkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![image](https://github.com/vivekanandpkr/vivekanandpkr/assets/21027388/ae6e48ec-a5dc-493c-9d0c-c3b840e54336)
+
 
