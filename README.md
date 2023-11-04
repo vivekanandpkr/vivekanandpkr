@@ -1,6 +1,6 @@
 # Hello, I'm Vivek.
 
-I'm on a journey to analyse and extract meaningful information from big data using AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  I've diversified experience, worked in multiple countries & cultures and I'm eager to pilot new ideas. 
+I'm on a journey to analyse and extract meaningful information from big data using AI, Machine Learning, and Statistics. 8+ years’ experience in Analytics, Business Intelligence, Digital Data Strategy, Automation, Machine Learning and HQ Finance Reporting.  I've diversified experience and I'm eager to pilot new ideas. 
 
 Developing this space as one of my primary hobbies and contributing it like a Minimum Viable Product (MVP). 
 
@@ -41,7 +41,7 @@ I'm all ears for engaging discussions, collaboration, or simply connecting with 
 - 🚀 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 
-I'm still new here, have spend <50 hours on updating this Github space as one of my primary hobbies. More Importantly, I'm focusing mainly on the brainstorming ideas & concepts to leverage the best human centric AI, but not here to showcase my programming, machine learning models etc., which can be easily automated or taken over by AI in next few years 💬. 
+I'm still new here, have spend <50 hours on updating this Github space as one of my primary hobbies. More Importantly, I'm focusing mainly on the brainstorming ideas & concepts to leverage the best human centric AI, but not here to showcase my programming, machine learning models etc., which can be automated or taken care by AI in next few years 💬. 
 
 Join me on this data-driven journey as we navigate the ever-evolving world of technology and knowledge. Thanks for reading. 
 
