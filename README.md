@@ -41,7 +41,7 @@ I'm all ears for engaging discussions, collaboration, or simply connecting with 
 - 🚀 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 
-I'm still new here, have spend <50 hours on updating this Github space as one of my primary hobbies. More Importantly, I'm focusing mainly on the brainstorming ideas & concepts to leverage the best human centric AI, but not here to showcase my programming, machine learning models etc., which can be automated or taken care by AI in next few years 💬. 
+I'm still new here, have spend <50 hours on updating this Github space. More Importantly, I'm focusing mainly on the brainstorming ideas & concepts to leverage the best human centric AI, but not here to showcase my programming, machine learning models etc., which can be automated or taken care by AI in next few years 💬. 
 
 Join me on this data-driven journey as we navigate the ever-evolving world of technology and knowledge. Thanks for reading. 
 
