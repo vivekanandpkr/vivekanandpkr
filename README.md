@@ -34,10 +34,6 @@ Here are some resources that have been my guiding stars on this journey:
 - Libraries
 - Tech Conferences
 - Mentors
-
-**Let's Connect**
- Reach out to me here:
-- 📧 Email: Vivekanandpkt@gmail.com
 - 🚀 Tableau Public: https://public.tableau.com/app/profile/vivekanand4623#!/
 
 Thanks for reading. 
